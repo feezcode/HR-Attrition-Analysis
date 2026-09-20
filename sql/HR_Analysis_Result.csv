@@ -1,0 +1,33 @@
+"analysis","metric","value"
+"01 Overall Turnover","Terminated Employees",104
+"01 Overall Turnover","Total Employees",311
+"01 Overall Turnover","Turnover Rate (%)",33.44
+"02 Department","Admin Offices",22.22
+"02 Department","Executive Office",0.00
+"02 Department","IT/IS",20.00
+"02 Department","Production",39.71
+"02 Department","Sales",16.13
+"02 Department","Software Engineering",36.36
+"03 Recruitment Source","CareerBuilder",47.83
+"03 Recruitment Source","Diversity Job Fair",55.17
+"03 Recruitment Source","Employee Referral",16.13
+"03 Recruitment Source","Google Search",61.22
+"03 Recruitment Source","Indeed",24.14
+"03 Recruitment Source","LinkedIn",23.68
+"03 Recruitment Source","On-line Web application",100.00
+"03 Recruitment Source","Other",50.00
+"03 Recruitment Source","Website",7.69
+"04 Salary","Active",70694.03
+"04 Salary","Terminated",65690.08
+"05 Satisfaction & Engagement","Active",3.89
+"05 Satisfaction & Engagement","Terminated",3.88
+"06 Performance","Exceeds",21.62
+"06 Performance","Fully Meets",33.33
+"06 Performance","Needs Improvement",55.56
+"06 Performance","PIP",38.46
+"07 Attendance - Absences","Active",9.83
+"07 Attendance - Absences","Terminated",11.05
+"07 Attendance - Late","Active",0.29
+"07 Attendance - Late","Terminated",0.66
+"08 Tenure","Active",5.35
+"08 Tenure","Terminated",7.01
